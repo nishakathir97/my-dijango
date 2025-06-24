@@ -1,0 +1,19 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+env/
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# Migrations
+*/migrations/__pycache__/
+*/migrations/*.pyc
+*/migrations/*.pyo
+*/migrations/*.pyd
+*/migrations/*.db
+*/migrations/*.sqlite3
+*.log
